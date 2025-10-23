@@ -36,7 +36,7 @@ A production-ready FastAPI application for user management with JWT authenticati
 
 ```bash
 # Clone repository
-git clone <your-repo-url>
+git clone https://github.com/norbek2101/coffee-shop-api.git
 cd coffee-shop-api
 
 # Create .env file from example
